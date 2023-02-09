@@ -1,211 +1,209 @@
 {
-  "messages": [
-    {
-      "id": 1,
-      "title": "Don’t hold onto things that require a tight grip."
-    },
-    {
-      "id": 2,
-      "title": "I didn’t come this far to only come this far."
-    },
-    {
-      "id": 3,
-      "title": "Look how far you've come."
-    },
-    {
-      "id": 5,
-      "title": "You should face the reality with a smile."
-    },
-    {
-      "id": 6,
-      "title": "The art of life is not controlling what happens to us, but using what happens to us."
-    },
-    {
-      "id": 7,
-      "title": "Don't let yesterday take up too much of today."
-    },
-    {
-      "id": 8,
-      "title": "If you want the rainbow, you gotta put up with the rain!"
-    },
-    {
-      "id": 9,
-      "title": "One bad chapter doesn't mean your story is over."
-    },
-    {
-      "id": 10,
-      "title": "What you plant now, you will harvest later."
-    },
-    {
-      "id": 11,
-      "title": "The most effective way to do it, is to do it."
-    },
-    {
-      "id": 12,
-      "title": "You are your best thing."
-    },
-    {
-      "id": 13,
-      "title": "There is always something left to love."
-    },
-    {
-      "id": 15,
-      "title": "Breathe, Darling, this is just a chapter, not your whole story."
-    },
-    {
-      "id": 16,
-      "title": "The world is your oyster."
-    },
-    {
-      "id": 17,
-      "title": "You are exactly where you are supposed to be."
-    },
-    {
-      "id": 18,
-      "title": "No more hiding."
-    },
-    {
-      "id": 19,
-      "title": "The best way to predict your future is to create it."
-    },
-    {
-      "id": 20,
-      "title": "Get busy living or get busy dying."
-    },
-    {
-      "id": 21,
-      "title": "The future belongs to those who believe in the beauty of their dreams."
-    },
-    {
-      "id": 22,
-      "title": "The only impossible journey is the one you never begin."
-    },
-    {
-     "id": 23,
-      "title": "The fortune you seek is in another cookie."
-    },
-       {
-     "id": 25,
-      "title": "You think it’s a secret, but they know."
-    },
-       {
-     "id": 26,
-      "title": "You will live long enough to open many fortune cookies."
-    },
-       {
-     "id": 27,
-      "title": "Do not mistake temptation for opportunity."
-    },
-       {
-     "id": 28,
-      "title": "You don’t need strength to let go of something. What you really need is understanding."
-    },
-       {
-     "id": 29,
-      "title": "Fortune not found? Abort, Retry, Ignore."
-    },
-       {
-     "id": 30,
-      "title": "Help! I am being held prisoner in a fortune cookie factory."
-    },
-       {
-     "id": 31,
-      "title": "Big journeys begin with a single step."
-    },
-       {
-     "id": 32,
-      "title": "All things are difficult before they are easy."
-    },
-       {
-     "id": 33,
-      "title": "You will soon have an out of money experience."
-    },
-       {
-     "id": 34,
-      "title": "Today it's up to you to create the peacefulness you long for."
-    },
-       {
-     "id": 35,
-      "title": "Change can hurt, but it leads a path to something better."
-    },
-       {
-     "id": 36,
-      "title": "Now is the time to try something new."
-    },
-       {
-     "id": 37,
-      "title": "Wealth awaits you very soon."
-    },
-       {
-     "id": 38,
-      "title": "Everyone agrees. You are the best."
-    },
-       {
-     "id": 39,
-      "title": "It's better to be alone sometimes."
-    },
-       {
-     "id": 40,
-      "title": "Sometimes you just need to lay on the floor."
-    },
-       {
-     "id": 41,
-      "title": "Stop wishing. Start doing."
-    },
-       {
-     "id": 42,
-      "title": "Your golden opportunity is coming shortly."
-    },
-       {
-     "id": 43,
-      "title": "To be old and wise, you must first be young and stupid."
-    },
-       {
-     "id": 44,
-      "title": "You are extremely loved. Don't worry :)."
-    },
-       {
-     "id": 45,
-      "title": "Back away from individuals who are impulsive."
-    },
-       {
-     "id": 46,
-      "title": "If you don’t do it excellently, don’t do it at all."
-    },
-       {
-     "id": 47,
-      "title": "Engage in group activities that further transformation."
-    },
-       {
-     "id": 48,
-      "title": "A pleasant experience is ahead: don’t pass it by."
-    },
-       {
-     "id": 49,
-      "title": "The only way to have a friend is to be one."
-    },
-       {
-     "id": 50,
-      "title": "Stop worrying and take a chance."
-    },
-     {
-     "id": 51,
-      "title": "A foolish man listens to his heart. A wise man listens to cookies."
-    },
+    "messages": [
       {
-      "id": 52,
-      "title": "If we wait until we're ready, we'll be waiting for the rest of our lives."
-    },
-    {
-      "id": 53,
-      "title": "Do it scared."
-    },
-    {
-     "id": 55,
-      "title": "Are your never-ending thoughts racing? Better go catch it!"
-    },
-  ]
-  "profile": {
-    "name": "..."
-  }
+        "id": 1,
+        "title": "Do not hold onto things that require a tight grip."
+      },
+      {
+        "id": 2,
+        "title": "I did not come this far to only come this far."
+      },
+      {
+        "id": 3,
+        "title": "Look how far you've come."
+      },
+      {
+        "id": 5,
+        "title": "You should face the reality with a smile."
+      },
+      {
+        "id": 6,
+        "title": "The art of life is not controlling what happens to us, but using what happens to us."
+      },
+      {
+        "id": 7,
+        "title": "Don't let yesterday take up too much of today."
+      },
+      {
+        "id": 8,
+        "title": "If you want the rainbow, you gotta put up with the rain!"
+      },
+      {
+        "id": 9,
+        "title": "One bad chapter doesn't mean your story is over."
+      },
+      {
+        "id": 10,
+        "title": "What you plant now, you will harvest later."
+      },
+      {
+        "id": 11,
+        "title": "The most effective way to do it, is to do it."
+      },
+      {
+        "id": 12,
+        "title": "You are your best thing."
+      },
+      {
+        "id": 13,
+        "title": "There is always something left to love."
+      },
+      {
+        "id": 15,
+        "title": "Breathe, Darling, this is just a chapter, not your whole story."
+      },
+      {
+        "id": 16,
+        "title": "The world is your oyster."
+      },
+      {
+        "id": 17,
+        "title": "You are exactly where you are supposed to be."
+      },
+      {
+        "id": 18,
+        "title": "No more hiding."
+      },
+      {
+        "id": 19,
+        "title": "The best way to predict your future is to create it."
+      },
+      {
+        "id": 20,
+        "title": "Get busy living or get busy dying."
+      },
+      {
+        "id": 21,
+        "title": "The future belongs to those who believe in the beauty of their dreams."
+      },
+      {
+        "id": 22,
+        "title": "The only impossible journey is the one you never begin."
+      },
+      {
+       "id": 23,
+        "title": "The fortune you seek is in another cookie."
+      },
+         {
+       "id": 25,
+        "title": "You think it is a secret, but they know."
+      },
+         {
+       "id": 26,
+        "title": "You will live long enough to open many fortune cookies."
+      },
+         {
+       "id": 27,
+        "title": "Do not mistake temptation for opportunity."
+      },
+         {
+       "id": 28,
+        "title": "You do not need strength to let go of something. What you really need is understanding."
+      },
+         {
+       "id": 29,
+        "title": "Fortune not found? Abort, Retry, Ignore."
+      },
+         {
+       "id": 30,
+        "title": "Help! I am being held prisoner in a fortune cookie factory."
+      },
+         {
+       "id": 31,
+        "title": "Big journeys begin with a single step."
+      },
+         {
+       "id": 32,
+        "title": "All things are difficult before they are easy."
+      },
+         {
+       "id": 33,
+        "title": "You will soon have an out of money experience."
+      },
+         {
+       "id": 34,
+        "title": "Today it's up to you to create the peacefulness you long for."
+      },
+         {
+       "id": 35,
+        "title": "Change can hurt, but it leads a path to something better."
+      },
+         {
+       "id": 36,
+        "title": "Now is the time to try something new."
+      },
+         {
+       "id": 37,
+        "title": "Wealth awaits you very soon."
+      },
+         {
+       "id": 38,
+        "title": "Everyone agrees. You are the best."
+      },
+         {
+       "id": 39,
+        "title": "It's better to be alone sometimes."
+      },
+         {
+       "id": 40,
+        "title": "Sometimes you just need to lay on the floor."
+      },
+         {
+       "id": 41,
+        "title": "Stop wishing. Start doing."
+      },
+         {
+       "id": 42,
+        "title": "Your golden opportunity is coming shortly."
+      },
+         {
+       "id": 43,
+        "title": "To be old and wise, you must first be young and stupid."
+      },
+         {
+       "id": 44,
+        "title": "You are extremely loved. Don't worry :)."
+      },
+         {
+       "id": 45,
+        "title": "Back away from individuals who are impulsive."
+      },
+         {
+       "id": 46,
+        "title": "If you do not do it excellently, do not do it at all."
+      },
+         {
+       "id": 47,
+        "title": "Engage in group activities that further transformation."
+      },
+         {
+       "id": 48,
+        "title": "A pleasant experience is ahead: do not pass it by."
+      },
+         {
+       "id": 49,
+        "title": "The only way to have a friend is to be one."
+      },
+         {
+       "id": 50,
+        "title": "Stop worrying and take a chance."
+      },
+       {
+       "id": 51,
+        "title": "A foolish man listens to his heart. A wise man listens to cookies."
+      },
+        {
+        "id": 52,
+        "title": "If we wait until we're ready, we'll be waiting for the rest of our lives."
+      },
+      {
+        "id": 53,
+        "title": "Do it scared."
+      },
+      {
+       "id": 55,
+        "title": "Are your never-ending thoughts racing? Better go catch it!"
+      }
+    ]
+  
 }
